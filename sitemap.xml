@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://ryandkerr.github.io/2015/index.html</loc>
+  <lastmod>2015-06-13</lastmod>
+ </url>
+ <url>
+  <loc>https://ryandkerr.github.io/archive.html</loc>
+  <lastmod>2015-06-13</lastmod>
+ </url>
+ <url>
+  <loc>https://ryandkerr.github.io/categories/index.html</loc>
+  <lastmod>2015-06-13</lastmod>
+ </url>
+ <url>
+  <loc>https://ryandkerr.github.io/galleries/index.html</loc>
+  <lastmod>2015-06-13</lastmod>
+ </url>
+ <url>
+  <loc>https://ryandkerr.github.io/index.html</loc>
+  <lastmod>2015-06-13</lastmod>
+ </url>
+ <url>
+  <loc>https://ryandkerr.github.io/listings/index.html</loc>
+  <lastmod>2015-06-13</lastmod>
+ </url>
+ <url>
+  <loc>https://ryandkerr.github.io/posts/projects.html</loc>
+  <lastmod>2015-06-13</lastmod>
+ </url>
+ <url>
+  <loc>https://ryandkerr.github.io/posts/testing1.html</loc>
+  <lastmod>2015-06-13</lastmod>
+ </url>
+ <url>
+  <loc>https://ryandkerr.github.io/stories/projects.html</loc>
+  <lastmod>2015-06-13</lastmod>
+ </url>
+</urlset>
